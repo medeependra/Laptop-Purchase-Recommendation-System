@@ -6,7 +6,6 @@ Purchasing_Agent/
 ├── main.py # Main application script
 ├── email_generator.py # Email generation and sending
 ├── manual_laptops.csv # Sample data file (created during execution)
-├── requirements.txt # Python dependencies
 └── README.txt # This file
 
 ## 🌟 Key Features
