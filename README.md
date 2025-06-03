@@ -4,8 +4,6 @@
 ## 📁 Project Structure
 Purchasing_Agent/
 ├── main.py # Main application script
-├── scraper.py # Web scraping functionality
-├── analyzer.py # Review analysis module
 ├── email_generator.py # Email generation and sending
 ├── manual_laptops.csv # Sample data file (created during execution)
 ├── requirements.txt # Python dependencies
